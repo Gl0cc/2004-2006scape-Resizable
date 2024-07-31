@@ -14,7 +14,7 @@ Resizable sprites for older runescape versions (2004-2006).
 ![Chatbox](https://i.imgur.com/yvNhn7T.png)
 
 ## Inventory with Highlight Stones
-![HighlightStones](https://i.imgur.com/WDAoMBz.gif)
+![HighlightStones](https://i.imgur.com/bkwHnwF.gif)
 
 # 2005-2006 Examples
 ## Inventory
@@ -27,4 +27,4 @@ Resizable sprites for older runescape versions (2004-2006).
 ![Chatbox](https://i.imgur.com/PeC0Z6s.png)
 
 ## Inventory with Highlight Stones
-![HighlightStones](https://i.imgur.com/ZMgHT5Y.gif)
+![HighlightStones](https://i.imgur.com/bwFE3YS.gif)
