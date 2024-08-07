@@ -18,7 +18,7 @@ Resizable sprites for older runescape versions (2004-2006).
 
 # 2005-2006 Examples
 ## Inventory
-![Inventory](https://i.imgur.com/PK9I7Fx.png)
+![Inventory](https://i.imgur.com/wBtXgNg.png)
 
 ## Minimap
 ![Minimap](https://i.imgur.com/1Eb839e.png)
