@@ -18,13 +18,13 @@ Resizable sprites for older runescape versions (2004-2006).
 
 # 2005-2006 Examples
 ## Inventory
-![Inventory](https://i.imgur.com/T58buaT.png)
+![Inventory](https://i.imgur.com/PAdC6VA.png)
 
 ## Minimap
 ![Minimap](https://i.imgur.com/1Eb839e.png)
 
 ## Chat and Privacy Stones
-![Chatbox](https://i.imgur.com/PeC0Z6s.png)
+![Chatbox](https://i.imgur.com/uPFFhy4.png)
 
 ## Inventory with Highlight Stones
-![HighlightStones](https://i.imgur.com/bwFE3YS.gif)
+![HighlightStones](https://i.imgur.com/kDSDlI4.gif)
