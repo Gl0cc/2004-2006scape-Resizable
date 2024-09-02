@@ -4,6 +4,9 @@ Resizable sprites for older runescape versions (2004-2006).
 [Download](https://github.com/Gl0cc/2004-2006scape-Resizable/archive/refs/heads/main.zip)
 
 # 2004 Examples
+## Gameframe
+![Gameframe](https://i.imgur.com/qvGvlLl.png)
+
 ## Inventory
 ![Inventory](https://i.imgur.com/1QtGoIv.png)
 
@@ -17,6 +20,9 @@ Resizable sprites for older runescape versions (2004-2006).
 ![HighlightStones](https://i.imgur.com/bkwHnwF.gif)
 
 # 2005-2006 Examples
+## Gameframe
+![Gameframe](https://i.imgur.com/COY7EXw.png)
+
 ## Inventory
 ![Inventory](https://i.imgur.com/T58buaT.png)
 
