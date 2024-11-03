@@ -8,7 +8,7 @@ Resizable sprites for older runescape versions (2004-2006).
 ![Gameframe](https://i.imgur.com/qvGvlLl.png)
 
 ## Inventory
-![Inventory](https://i.imgur.com/1QtGoIv.png)
+![Inventory](https://i.imgur.com/6WRM4or.png)
 
 ## Minimap
 ![Minimap](https://i.imgur.com/OENYfiY.png)
@@ -25,6 +25,12 @@ Resizable sprites for older runescape versions (2004-2006).
 
 ## Inventory
 ![Inventory](https://i.imgur.com/T58buaT.png)
+
+## Transparent Inventory
+![Inventory](https://i.imgur.com/oTbSNsQ.png)
+
+## Inventory Center
+![InventoryCenter](https://i.imgur.com/Tl3l6Gv.png)
 
 ## Minimap
 ![Minimap](https://i.imgur.com/1Eb839e.png)
