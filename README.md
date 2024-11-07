@@ -22,8 +22,9 @@ Resizable sprites for older runescape versions (2004-2006).
 ## Chat and Privacy Stones
 ![Chatbox](https://i.imgur.com/yvNhn7T.png)
 
-## Inventory with Highlight Stones
+## Inventory with Highlight Stones & Transparency
 ![HighlightStones](https://i.imgur.com/bkwHnwF.gif)
+![TransParentInventory](https://i.imgur.com/dW3eu3t.gif)
 
 # 2005-2006 Examples
 ## Gameframe
@@ -44,5 +45,6 @@ Resizable sprites for older runescape versions (2004-2006).
 ## Chat and Privacy Stones
 ![Chatbox](https://i.imgur.com/uPFFhy4.png)
 
-## Inventory with Highlight Stones
+## Inventory with Highlight Stones & Transparency
 ![HighlightStones](https://i.imgur.com/kDSDlI4.gif)
+![TransParentInventory](https://i.imgur.com/I1UTA6A.gif)
