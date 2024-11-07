@@ -11,9 +11,11 @@
 
 ## Transparent Inventory
 ![Inventory](https://i.imgur.com/tCwO4pn.png)
-
-## Inventory Center
 ![InventoryCenter](https://i.imgur.com/nrKJQ1c.png)
+
+## Inventory with Highlight Stones & Transparency
+![HighlightStones](https://i.imgur.com/bkwHnwF.gif)
+![TransParentInventory](https://i.imgur.com/dW3eu3t.gif)
 
 ## Minimap
 ![Minimap](https://i.imgur.com/OENYfiY.png)
@@ -21,9 +23,6 @@
 ## Chat and Privacy Stones
 ![Chatbox](https://i.imgur.com/yvNhn7T.png)
 
-## Inventory with Highlight Stones & Transparency
-![HighlightStones](https://i.imgur.com/bkwHnwF.gif)
-![TransParentInventory](https://i.imgur.com/dW3eu3t.gif)
 
 # 2005-2006 Examples
 ## Gameframe
@@ -34,16 +33,14 @@
 
 ## Transparent Inventory
 ![Inventory](https://i.imgur.com/oTbSNsQ.png)
-
-## Inventory Center
 ![InventoryCenter](https://i.imgur.com/Tl3l6Gv.png)
+
+## Inventory with Highlight Stones & Transparency
+![HighlightStones](https://i.imgur.com/kDSDlI4.gif)
+![TransParentInventory](https://i.imgur.com/I1UTA6A.gif)
 
 ## Minimap
 ![Minimap](https://i.imgur.com/1Eb839e.png)
 
 ## Chat and Privacy Stones
 ![Chatbox](https://i.imgur.com/uPFFhy4.png)
-
-## Inventory with Highlight Stones & Transparency
-![HighlightStones](https://i.imgur.com/kDSDlI4.gif)
-![TransParentInventory](https://i.imgur.com/I1UTA6A.gif)
