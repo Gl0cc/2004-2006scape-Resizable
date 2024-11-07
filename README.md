@@ -1,4 +1,4 @@
-# Resizable sprites for older runescape versions (2004-2006).
+# Resizable sprites for older runescape versions (2004-2006)
 
 [Download](https://github.com/Gl0cc/2004-2006scape-Resizable/archive/refs/heads/main.zip)
 
